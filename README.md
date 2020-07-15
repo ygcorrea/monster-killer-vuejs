@@ -4,9 +4,9 @@
 ## Objetivo:
 
 Criar um jogo para exercitar os conhecimentos de VueJs, onde o Player ataca e o Monstro pode revidar, além de aplicar as funcionalidades de cura, ataque especial desistencia e reset.
-<hr>
-#Github Pages:
 
+## Github Pages: 
+https://ygcorrea.github.io/monster-killer-vuejs/
 <hr>
 
 ## Composição da tela
