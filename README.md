@@ -18,7 +18,7 @@ https://ygcorrea.github.io/monster-killer-vuejs/
 
 ## Layout
 
-![Monster Killer](https://user-images.githubusercontent.com/58710976/87609433-e8d91d80-c6d8-11ea-86c9-60f4e5c47e9a.gif)
+![Monster Killer (1)](https://user-images.githubusercontent.com/58710976/87609697-a106c600-c6d9-11ea-9170-80bca14c13b5.gif)
 
 
 
